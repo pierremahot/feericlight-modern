@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/pierremahot/feericlight-modern/compare/v2.1.1...v2.1.2) (2026-11-14)
+
+
+### Bug Fixes
+
+* **android:** remove hardcoded java.home and update dependencies ([6f0459c](https://github.com/pierremahot/feericlight-modern/commit/6f0459c29afa8cbfc79726e6e1ac5ffb23e0cce3))
+
 ## [2.1.1](https://github.com/pierremahot/feericlight-modern/compare/v2.1.0...v2.1.1) (2026-11-14)
 
 
